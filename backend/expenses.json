@@ -1,0 +1,62 @@
+[
+    {
+        "app": "zepto",
+        "amount": 231,
+        "category": "grocery"
+    },
+    {
+        "app": "zomato",
+        "amount": 321,
+        "category": "food"
+    },
+    {
+        "app": "swiggy",
+        "amount": 333,
+        "category": "grocery"
+    },
+    {
+        "app": "swiggy",
+        "amount": 212,
+        "category": "food"
+    },
+    {
+        "app": "zara",
+        "amount": 3333,
+        "category": "shopping"
+    },
+    {
+        "app": "hnm",
+        "amount": 2111,
+        "category": "shopping"
+    },
+    {
+        "app": "swiggy",
+        "amount": 2222,
+        "category": "food"
+    },
+    {
+        "app": "zomato",
+        "amount": 3421,
+        "category": "food"
+    },
+    {
+        "app": "zara",
+        "amount": 2222,
+        "category": "shopping"
+    },
+    {
+        "app": "bpcl",
+        "amount": 20000,
+        "category": "fuel"
+    },
+    {
+        "app": "zepto",
+        "amount": 222,
+        "category": "food"
+    },
+    {
+        "app": "swiggy ",
+        "amount": 2111,
+        "category": "food"
+    }
+]
